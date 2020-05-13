@@ -1,4 +1,4 @@
-package br.com.oracle.enthuware;
+package br.com.phmiranda.enthuware;
 
 //package exceptions;
 

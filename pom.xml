@@ -7,7 +7,7 @@
   <groupId>br.com.phmiranda</groupId>
   <artifactId>certificacao</artifactId>
   <name>certificacao</name>
-  <url>http://www.example.com</url>
+  <url>https://www.example.com</url>
   <version>1.0.0</version>
 
   <properties>
