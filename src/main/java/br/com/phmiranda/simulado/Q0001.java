@@ -1,6 +1,5 @@
-package br.com.phmiranda.enthuware;
-
-//package exceptions;
+// descrever a questão do simulado aqui.
+package br.com.phmiranda.simulado;
 
 public class Q0001{
     public static void main(String[] args) {
