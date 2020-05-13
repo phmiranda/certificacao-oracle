@@ -1,4 +1,4 @@
-package br.com.oracle;
+package br.com.phmiranda;
 
 /**
  * Hello world!
